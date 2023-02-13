@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lauramoal
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning IT (CSS+ HTML+JAVA SCRIPT) AND (CYBER SECURITY) 
-- 💞️ I’m looking to collaborate on front-end develop OR CYBERSECURITY
+- 💞️ I’m looking to collaborate on front-end develop OR Cyber security.
 - 📫 How to reach me linkedin, instagram or here. 
 
 <!---
